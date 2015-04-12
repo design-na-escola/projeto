@@ -2,4 +2,5 @@
 
 * O Projeto
 * Colaboradores
+* Projeto Piloto
 
