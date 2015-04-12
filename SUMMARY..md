@@ -3,5 +3,5 @@
 * [O Projeto](projeto.md)
 * [Colaboradores](/colaboradores.md)
 * [Projeto Piloto](projeto-piloto.md)
-* Contato
+* [Contato](contato.md)
 
