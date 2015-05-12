@@ -13,20 +13,20 @@ Tivemos a ideia de criar uma versão menor do projeto e apresentar um pouco do d
 ## 2. Estrutura do mini curso:
 
 
-**1. Descoberta: (10min - 5min e troca)**<br />
-Projete um dia melhor, entreviste sua dupla e procure entender seus costumes, aprende como a pessoa se sente, o que deseja. Seu objetivo é fazer perguntas e escutar não tenha medo de perguntar "por que"?
+**1. Entrevista: (10min - 5min e troca)**<br />
+Projete um dia melhor, entreviste sua dupla e procure entender seus costumes, aprende como a pessoa se sente, o que deseja. Seu objetivo é fazer perguntas e escutar, não tenha medo de perguntar "por que"?
 
-**2. Criação (Brainstorming):**<br />
-Geração de alternativas de soluções para o problema selecionado na fase anterior.
+**2. Descoberta do problema/oportunidade:(5min)**<br />
+Cada um deve ler suas anotações e escrever as 3 maiores necessidades do seu entrevistado.
 
-**3. Inventário de produto:**<br />
-Levantamento de requisitos e objetivos do produtos, oque deve ter o que não deve ter.
+**3. Criação - Brainstorming:(10min)**<br />
+Agora é a chance de imaginar novas soluções para tornar a vida de outra pessoa melhor! Trabalhe com o seu parceiro e esboçe algumas formas de melhorar o dia a dia. Você deve se concentrar em idéias para o seu parceiro e seu parceiro deve se concentrar em idéias para você. No entanto, trabalhar de forma colaborativa e tentar chegar a algumas idéias que possam melhorar o dia para vocês dois. 
 
-**4. Mínimo produto viável (MVP):**<br />
-Organização das soluções e requisitos de produtos avaliados em alto/baixo custo e alto/baixo impacto.
+**4. Validação da ideia:(10min)**<br />
+Compartilhe sua ideia com os outros grupos, não tente vender sua ideia e sim perceber o que chama a atenção das pessoas sobre sua ideia.
 
-**5. Prototipagem:**<br />
-Criação de protótipos simples para ciclos de teste e validações do produto.
+**5. Prototipagem MVP:**<br />
+Com a opinião dos outros grupos devina um minimo produto para teste. O seu protótipo pode ser um modelo, um diagrama, ou um desenho mais detalhado. De qualquer forma que puder ter uma primeira ideia mais refinada para apresentar para outras pessoas.
 
 ## 3. Duração:
 
