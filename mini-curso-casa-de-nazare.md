@@ -8,7 +8,7 @@
 ## 1. Objetivo:
 
 A Casa de Nazaré foi um dos primeiros lugares com quem conversamos a respeito do projeto Design na Escola,a casa possui estrutura para atender ao projeto durante a semana em horário comercial, como nós dois (Samantha e Rafael) não temos disponibilidade para ministrar aulas durante a semana.
-Tivemos a ideia de criar uma versão menor para o projeto pois assim podemos propor para a Casa de Nazaré um teste do projeto e também passar algum conhecimento sobre Design para os adolescentes da Casa. 
+Tivemos a ideia de criar uma versão menor do projeto e apresentar um pouco do design para os adolescentes da casa e também testar o projeto. 
 
 ## 2. Estrutura do mini curso:
 
