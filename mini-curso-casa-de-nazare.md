@@ -13,16 +13,16 @@ Tivemos a ideia de criar uma versão menor do projeto e apresentar um pouco do d
 ## 2. Estrutura do mini curso:
 
 
-**1. Descoberta:**
-Exploração em grupos sobre problemas/dificuldades que existam na comunidade ou colégio que os estudantes gostariam de melhorar.
+**1. Descoberta: (10min - 5min e troca)**<br />
+Projete um dia melhor, entreviste sua dupla e procure entender seus costumes, aprende como a pessoa se sente, o que deseja. Seu objetivo é fazer perguntas e escutar não tenha medo de perguntar "por que"?
 
 **2. Criação (Brainstorming):**
 Geração de alternativas de soluções para o problema selecionado na fase anterior.
 
-**3. Inventário de produto: **
+**3. Inventário de produto:**
 Levantamento de requisitos e objetivos do produtos, oque deve ter o que não deve ter.
 
-**4. Mínimo produto viável (MVP): **
+**4. Mínimo produto viável (MVP):**
 Organização das soluções e requisitos de produtos avaliados em alto/baixo custo e alto/baixo impacto.
 
 **5. Prototipagem:**
