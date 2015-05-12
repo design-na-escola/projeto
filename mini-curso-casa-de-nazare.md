@@ -25,7 +25,7 @@ Agora é a chance de imaginar novas soluções para tornar a vida de outra pesso
 **4. Validação da ideia:(10min)**<br />
 Compartilhe sua ideia com os outros grupos, não tente vender sua ideia e sim perceber o que chama a atenção das pessoas sobre sua ideia.
 
-**5. Prototipagem MVP:**<br />
+**5. Prototipagem MVP:(30min)**<br />
 Com a opinião dos outros grupos devina um minimo produto para teste. O seu protótipo pode ser um modelo, um diagrama, ou um desenho mais detalhado. De qualquer forma que puder ter uma primeira ideia mais refinada para apresentar para outras pessoas.
 
 ## 3. Duração:
