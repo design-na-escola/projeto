@@ -16,20 +16,20 @@ Tivemos a ideia de criar uma versão menor do projeto e apresentar um pouco do d
 **1. Descoberta: (10min - 5min e troca)**<br />
 Projete um dia melhor, entreviste sua dupla e procure entender seus costumes, aprende como a pessoa se sente, o que deseja. Seu objetivo é fazer perguntas e escutar não tenha medo de perguntar "por que"?
 
-**2. Criação (Brainstorming):**
+**2. Criação (Brainstorming):**<br />
 Geração de alternativas de soluções para o problema selecionado na fase anterior.
 
-**3. Inventário de produto:**
+**3. Inventário de produto:**<br />
 Levantamento de requisitos e objetivos do produtos, oque deve ter o que não deve ter.
 
-**4. Mínimo produto viável (MVP):**
+**4. Mínimo produto viável (MVP):**<br />
 Organização das soluções e requisitos de produtos avaliados em alto/baixo custo e alto/baixo impacto.
 
-**5. Prototipagem:**
+**5. Prototipagem:**<br />
 Criação de protótipos simples para ciclos de teste e validações do produto.
 
 ## 3. Duração:
-Do
+
 
 ## 4. Recursos Necessários:
 * Almoço
@@ -43,7 +43,7 @@ Do
 * Argila
 * Papelão
 * Massinha de modelar
-* 
+
 
 
 
