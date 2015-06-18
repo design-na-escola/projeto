@@ -7,7 +7,7 @@ Se você ainda não conhece o projeto, comece lendo [este artigo](https://medium
 <br />
 <br />
 ### Sobre o projeto
-Criamos uma tabela para tentar deixar o que é o projeto qual sua função e seus objetivos. 
+Criamos uma tabela para tentar deixar claro o que é o projeto qual sua função e seus objetivos. 
 <br />
 
 |                                                               É                                                               |                 NÃO É                |
