@@ -7,35 +7,39 @@
 
 ## 1. Objetivo:
 
-Apresentar para os funcionários do museu através de dinâmicas o processo de trabalho de Design Centrado nas Pessoas e assim muni-los com ferramentas que permitam a eles descobrir e definir a visão de um produto ou negócio, criar personas para conhecer seu público alvo, jornadas do usuário e outras técnicas que vão ajudar a projetar uma nova experiência para o Museu Hipólito José da Costa.
+Apresentar para os funcionários do museu o processo de trabalho de Design Centrado nas Pessoas através de dinâmicas. Assim iremos muni-los com ferramentas que permitem descobrir e definir a visão de um produto ou negócio, criar personas para conhecer e criar empatia pelo público alvo, criar mapas de experiência e outras técnicas que auxiliaram no projeto de novas experiências para o Museu Hipólito José da Costa.
 
 ## 2. Estrutura do curso:
 
 **A. Introdução: (30min)**
-Contextualizar os participantes sobre o design centrado no ser humano, explicar o objetivo do curso, quais as expectativas e dar um embasamento para iniciar o curso. Ao longo de cada etapa a seguir, explicaremos como realiza-la e porque realizar.
+Contextualizar os participantes sobre o design centrado nas pessoas, explicar o objetivo deste encontro, quais as expectativas e dar um embasamento para iniciar o curso. Ao longo de cada etapa a seguir, explicaremos como realiza-la e porque realizar.
 
 **B. Visão do produto: (1hr)**<br />
-Divididos em grupos devemos utilizar o template de visão do produto e chegar a um consenso.
+Divididos em grupos devemos utilizar o template de visão do produto e chegar em uma visão unificada.
 
-**C. Objetivos: (1hr)**<br />
-Cada membro da equipe escreva individualmente no máximo 3 objetivos que resume o projeto, depois em conjunto reescreva para deixar claro para todos o objetivo.
+**C. Personas: (1hr)**<br />
+Definir os usuários do produto e criar, divididos em grupos, algumas personas utilizando o mapa de empatia.
 
-**D. Personas: (tempo)**<br />
-Definir os usuários do produto e criar divididos em grupos alguns personas utilizando o template mapa de empatia.
+**D. Objetivos: (1hr)**<br />
+Cada membro da equipe escreverá individualmente os objetivos que resumem o projeto. Posteriormente, em conjunto, chegarão em um consenso dos principais objetivos.
 
-**E. Descobrindo features: (tempo)**<br />
-Brainstorm de ideias/funcionalidades baseados nos objetivos e personas
+**E. Mapa de Experiência: (1hr)**<br />
+Criação de jornadas do usuário que demonstrem o fluxo percorrido pelos usuários, sendo ele negativo ou positivo. 
 
-**F. Jornadas: (tempo)**<br />
-Criação de jornadas do usuário que demonstre o fluxo percorrido pelas usuários até o final da jornada sendo ela negativa ou positiva.
-Depois que for definida as etapas da jornada fixe as features que foram pensadas pelo time e crie novas se for necessário.
+**F. Descobrindo funcionalidades: (1hr)**<br />
+Brainstorm de ideias/funcionalidades baseados nos objetivos e personas. Depois que forem definidas as etapas da jornada, fixe as funcionalidades que foram pensadas e crie novas se for necessário.
 
-**G Avaliar: (tempo)**<br />
+**G Avaliar: (1hr)**<br />
 Avaliação do valor e esforço para cada uma das funcionalidades.
 
 
 ## 3. Duração:
-
+7h
 
 ## 4. Recursos Necessários:
-* Lanche
+* Lanche e bebidas (água, café, sucos)
+* Almoço e bebidas (ou sair para almoçar)
+* Post-its
+* Flipchart ou quadro-branco
+* Blue tack
+* Canetas (de quadro-branco) e canetinhas coloridas
