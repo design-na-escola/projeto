@@ -15,7 +15,6 @@ Criamos uma tabela para tentar deixar claro o que é o projeto qual sua função
 | Uma iniciativa que leva o design para pessoas que não teriam oportunidade de conhecer a profissão                             | Uma escola de design, ong ou empresa |
 |                                                              **FAZ**                                                              |                **NÃO FAZ**               |
 | Apresenta a forma que o design usa para gerar soluções.  Dá ferramentas para as pessoas gerarem soluções nas suas comunidades | Ensina software ou ensina softwares  |
-
 <br />
 <br />
 ### KPI's 
