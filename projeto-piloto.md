@@ -3,6 +3,7 @@
 1. Objetivo:
 ----
 Encontros semanais com adolescentes que ainda estão no Ensino Médio. O objetivo é compartilhar nosso conhecimento em aulas prático-teóricas sobre design centrado nas pessoas. Queremos apresentar essa profissão e auxiliar os alunos a aprender a gerar ideias/soluções para a comunidade onde vivem. Queremos que o design seja algo acessível para todos, e acreditamos que a educação é a chave para isso. 
+teste pull request 
 
 
 2. Público: 
